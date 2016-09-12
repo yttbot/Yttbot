@@ -1,2 +1,2 @@
 # Yttbot
-yttbot.github.io
+https://www.yttbot.github.io
